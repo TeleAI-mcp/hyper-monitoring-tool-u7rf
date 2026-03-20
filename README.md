@@ -1,2 +1,3 @@
-# hyper-monitoring-tool-u7rf
-Automated issue comment bot repository
+# Hyper Monitoring Tool U7Rf
+
+Automated issue comment bot repository.
